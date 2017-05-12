@@ -1,0 +1,136 @@
+body, html {
+  background-color: #37474F;
+}
+
+text {
+  color: white !important;
+  fill: white !important;
+}
+
+.highcharts-background {
+  fill: #37474F;
+}
+
+.highcharts-range-selector-buttons text {
+  text-transform: uppercase;
+  color: white !important;
+  fill: white !important;
+}
+
+.highcharts-button rect {
+  border-radius: 50%;
+  fill: #455A64;
+}
+
+.highcharts-grid path {
+  stroke: #263238 !important;
+  fill: #263238 !important;
+  color: #263238;
+}
+
+.highcharts-axis path {
+  stroke: #263238 !important;
+  fill: #263238 !important;
+  color: #263238;
+}
+
+.highcharts-axis text {
+  color: white !important;
+  fill: white !important;
+}
+
+.highcharts-axis-labels text {
+  fill: #546E7A !important;
+}
+
+.highcharts-navigator path {
+  stroke: #263238 !important;
+}
+
+.highcharts-navigator rect {
+  fill: rgba(38,50,56,0.3) !important;
+}
+
+.highcharts-navigator-handle-left rect {
+  fill: #546E7A !important;
+  stroke-width: 0 !important;
+}
+
+.highcharts-navigator-handle-left path {
+  fill: white !important;
+}
+
+.highcharts-navigator-handle-right rect {
+  fill: #546E7A !important;
+  stroke-width: 0 !important;
+}
+
+.highcharts-navigator-handle-right path {
+  fill: white !important;
+}
+
+.highcharts-highcharts-scrollbar rect {
+  fill: #263238 !important;
+  stroke-width: 0 !important;
+}
+
+.highcharts-highcharts-scrollbar g rect {
+  fill: #546E7A !important;
+  stroke-width: 0 !important;
+}
+
+.highcharts-highcharts-scrollbar g path {
+  stroke: white !important;
+  fill: white !important;
+}
+
+.highcharts-button path {
+  stroke: white !important;
+}
+
+.highcharts-button:hover rect, .highcharts-button:focus rect {
+  stroke: none !important;
+}
+
+.highcharts-input-group g rect {
+  stroke-width: 0 !important;
+  fill: #546E7A !important;
+}
+
+.highcharts-tooltip path {
+  fill: rgba(38,50,56,0.3) !important;
+}
+
+.well {
+  background-color: #37474F;
+  border: none;
+  color: white;
+}
+
+.form-inline input {
+  background-color: #37474F;
+  margin-left: 10px;
+  border: none;
+  border-bottom: 1px solid #263238;
+  border-radius: 0px;
+  color: white;
+}
+
+.form-inline input:focus {
+  box-shadow: none !important;
+  outline: none !important;
+  border-color: #03A9F4;
+}
+
+.btn-info {
+  background: #03A9F4 !important  ;
+  border-radius: 30px;
+}
+
+.btn-info a {
+  margin-left: 5px;
+}
+
+.btn-info a:hover, .btn-info a:focus {
+  text-decoration: none;
+}
